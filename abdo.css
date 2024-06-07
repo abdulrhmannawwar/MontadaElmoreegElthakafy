@@ -136,4 +136,7 @@ body{
         height: 30vh;
         width: 80%;
     }
+    .pics p {
+        font-size: 3vw;
+    }
 }
