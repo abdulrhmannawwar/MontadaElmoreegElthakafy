@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    font-family: "Marhey", sans-serif;
+    font-family: "Cairo", sans-serif;
 }
 .top {
     position: relative;
@@ -27,7 +27,7 @@ body{
     font-size: 40px;
     color: white;
     margin: 0;
-    background-color: #487aaf;
+    background-color: #8AAFD9;
     padding: 20px;
 }
 .main{
@@ -83,7 +83,7 @@ body{
 .temp.four{
     flex-direction: row-reverse;
     margin-top: 40px;
-    background-color: #333339;
+    background-color: #2C2A3F;
 }
 .temp.five{
     margin-top: 40px;
@@ -96,7 +96,7 @@ body{
 .pics{
     max-width: 100%;
     height: fit-content;
-    background-color: #487aaf;
+    background-color: #8ba5f2;
     
 }
 .pic{
