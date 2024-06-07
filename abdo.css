@@ -118,6 +118,9 @@ body{
 .pic.three img{
     width: 50%;
 }
+.pic.five{
+    margin-bottom: 30px;
+}
 .final{
     background-color: #373760;
     text-align: center;
